@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (RABBIT)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "RABBIT TOPUP";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
